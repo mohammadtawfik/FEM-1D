@@ -1,3 +1,16 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%This program presents a very simple problem
+% of 3-node bar loading
+%Written by: Mohammad Tawfik
+%Video explaining the code: NONE
+%Text about Finite Element Analysis:
+% https://www.researchgate.net/publication/321850256_Finite_Element_Analysis_Book_Draft
+%Book DOI: 10.13140/RG.2.2.32391.70560
+%
+%For the Finite Element Course and other courses
+% visit http://AcademyOfKnowledge.org
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %Clearing the memory and display
 clear all
 clc
