@@ -1,3 +1,16 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%This program presents a very simple problem
+% to solve truss problems
+%Written by: Mohammad Tawfik
+%Video explaining the code: https://youtu.be/2PnBDF9XxCs
+%Text about Finite Element Analysis:
+% https://www.researchgate.net/publication/321850256_Finite_Element_Analysis_Book_Draft
+%Book DOI: 10.13140/RG.2.2.32391.70560
+%
+%For the Finite Element Course and other courses
+% visit http://AcademyOfKnowledge.org
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 clear all
 clc
 close all
