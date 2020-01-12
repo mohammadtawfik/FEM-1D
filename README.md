@@ -8,4 +8,4 @@ https://www.researchgate.net/publication/321850256_Finite_Element_Analysis_Book_
 With DOI:10.13140/RG.2.2.32391.70560
 
 Lecture videos can be found at:
-https://sites.google.com/academyofknowledge.org/theakweb/engineering-and-science/introduction-to-the-finite-element-method
+http://fem.AcademyOfKnowledge.org
